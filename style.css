@@ -1,11 +1,13 @@
 body {
-  background-color: blue;
-  font-family: Times New Roman, sans-serif;
+  background-image: linear-gradient(blue, grey);
+  font-family: "Times New Roman", Times, serif;
   color: white;
-  margin: 10%
-    
+  margin: 10% 
+  
+ 
+ 
 }
-
+   
 .exp-header{
   text-transform: uppercase;
   border-top: 1px solid ;
